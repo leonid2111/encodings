@@ -2,7 +2,7 @@ package encodings_test
 
 import (
 	"fmt"
-	"github.com/leonid2111/test"
+	"github.com/leonid2111/encodings"
 	"testing"
 )
 
